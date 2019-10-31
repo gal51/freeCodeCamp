@@ -13,8 +13,6 @@ We strictly enforce our ["Code of Conduct"](https://www.freecodecamp.org/code-of
 
 Happy contributing.
 
-## Here are some fun ways that you can help
-
 You can contribute to any of these:
 
 1. [Contribute to this open-source codebase](#contribute-to-this-open-source-codebase). Help us edit coding challenges, or fix bugs on the learning platform.
